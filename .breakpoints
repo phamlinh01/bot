@@ -1,0 +1,28 @@
+{
+  "files": {
+    "modules/commands/ad.js": [
+      {
+        "id": "4c9c017c-ec77-4c63-a405-81030a420ff0",
+        "line": 46,
+        "version": 1,
+        "index": 2378
+      }
+    ],
+    "modules/commands/simmp3.js": [
+      {
+        "id": "304a025b-bd29-4c27-b573-49f3c089ab1f",
+        "line": 63,
+        "version": 26,
+        "index": 3180
+      }
+    ],
+    "modules/events/leaveNoti.js": [
+      {
+        "id": "077f5a5e-f46f-4757-ad50-a5e42cc1b3fb",
+        "line": 1,
+        "version": 1,
+        "index": 1
+      }
+    ]
+  }
+}
